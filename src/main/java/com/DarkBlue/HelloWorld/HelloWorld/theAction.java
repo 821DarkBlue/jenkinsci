@@ -19,6 +19,6 @@ public class theAction implements Action
 	@Override
 	public String getUrlName()
 	{
-		return "http://10.180.43.250:8080/jenkins";
+		return "xxx";
 	}
 }
